@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460319282632",
+    "project_id": "komi-cash",
+    "storage_bucket": "komi-cash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460319282632:android:5e4d9d9c5da0c76b7d5cfd",
+        "android_client_info": {
+          "package_name": "komiwall.com.komiwall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97sgDKQx-hZFPxaeR3aWidwffyrnDby4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

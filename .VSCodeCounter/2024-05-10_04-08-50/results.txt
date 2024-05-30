@@ -1,0 +1,232 @@
+Date : 2024-05-10 04:08:50
+Directory : d:\komiwall-master\komiwall-master
+Total : 122 files,  7288 codes, 437 comments, 763 blanks, all 8488 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Dart       |         73 |      5,709 |        152 |        474 |      6,335 |
+| C++        |         16 |        549 |        127 |        188 |        864 |
+| XML        |         11 |        484 |         53 |         21 |        558 |
+| JSON       |          6 |        278 |          0 |          4 |        282 |
+| Gradle     |          3 |         92 |          9 |         20 |        121 |
+| Swift      |          6 |         68 |          7 |         20 |         95 |
+| YAML       |          2 |         49 |         73 |         19 |        141 |
+| HTML       |          1 |         38 |         16 |          6 |         60 |
+| Markdown   |          2 |         13 |          0 |          9 |         22 |
+| Properties |          2 |          8 |          0 |          2 |         10 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                |        122 |      7,288 |        437 |        763 |      8,488 |
+| . (Files)                                                                                        |          4 |         60 |         73 |         26 |        159 |
+| android                                                                                          |         14 |        209 |         60 |         40 |        309 |
+| android (Files)                                                                                  |          3 |         42 |          2 |          9 |         53 |
+| android\app                                                                                      |         10 |        162 |         58 |         30 |        250 |
+| android\app (Files)                                                                              |          2 |         82 |          7 |         12 |        101 |
+| android\app\src                                                                                  |          8 |         80 |         51 |         18 |        149 |
+| android\app\src\debug                                                                            |          1 |          3 |          4 |          1 |          8 |
+| android\app\src\main                                                                             |          6 |         74 |         43 |         16 |        133 |
+| android\app\src\main (Files)                                                                     |          1 |         43 |         11 |         10 |         64 |
+| android\app\src\main\res                                                                         |          5 |         31 |         32 |          6 |         69 |
+| android\app\src\main\res\drawable                                                                |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                            |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\mipmap-anydpi-v26                                                       |          1 |          5 |          0 |          0 |          5 |
+| android\app\src\main\res\values                                                                  |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                            |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                          |          1 |          3 |          4 |          1 |          8 |
+| android\gradle                                                                                   |          1 |          5 |          0 |          1 |          6 |
+| android\gradle\wrapper                                                                           |          1 |          5 |          0 |          1 |          6 |
+| ios                                                                                              |          8 |        229 |          4 |         13 |        246 |
+| ios\Runner                                                                                       |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner (Files)                                                                               |          2 |         13 |          0 |          3 |         16 |
+| ios\RunnerTests                                                                                  |          1 |          7 |          2 |          4 |         13 |
+| ios\Runner\Assets.xcassets                                                                       |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                    |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                  |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                            |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                              |         72 |      5,695 |        142 |        468 |      6,305 |
+| lib (Files)                                                                                      |          2 |         71 |         12 |          7 |         90 |
+| lib\blocs                                                                                        |         12 |        390 |          1 |         74 |        465 |
+| lib\blocs\auth_bloc                                                                              |          2 |         65 |          0 |         11 |         76 |
+| lib\blocs\auth_bloc\auth_bloc                                                                    |          2 |         65 |          0 |         11 |         76 |
+| lib\blocs\cash_bloc                                                                              |          2 |         61 |          0 |         10 |         71 |
+| lib\blocs\earn_bloc                                                                              |          2 |         56 |          1 |         15 |         72 |
+| lib\blocs\game_bloc                                                                              |          2 |         77 |          0 |         14 |         91 |
+| lib\blocs\leaderboard_bloc                                                                       |          2 |         21 |          0 |          7 |         28 |
+| lib\blocs\user_bloc                                                                              |          2 |        110 |          0 |         17 |        127 |
+| lib\components                                                                                   |         18 |      1,896 |         42 |        113 |      2,051 |
+| lib\components (Files)                                                                           |          1 |        466 |         21 |         44 |        531 |
+| lib\components\cashout_comp                                                                      |          2 |        203 |          1 |          7 |        211 |
+| lib\components\earn_comp                                                                         |          1 |         88 |          0 |          5 |         93 |
+| lib\components\game_comp                                                                         |          2 |        107 |          0 |          9 |        116 |
+| lib\components\general                                                                           |          6 |        290 |          0 |         26 |        316 |
+| lib\components\home_comp                                                                         |          3 |        204 |          0 |          6 |        210 |
+| lib\components\profile_comp                                                                      |          3 |        538 |         20 |         16 |        574 |
+| lib\models                                                                                       |          7 |        495 |         20 |         62 |        577 |
+| lib\screens                                                                                      |         13 |      2,179 |         11 |         97 |      2,287 |
+| lib\screens (Files)                                                                              |          3 |        465 |         10 |         20 |        495 |
+| lib\screens\auth                                                                                 |          3 |        436 |          0 |         19 |        455 |
+| lib\screens\main                                                                                 |          7 |      1,278 |          1 |         58 |      1,337 |
+| lib\screens\main (Files)                                                                         |          4 |        506 |          0 |         22 |        528 |
+| lib\screens\main\games                                                                           |          3 |        772 |          1 |         36 |        809 |
+| lib\services                                                                                     |         15 |        546 |         56 |        100 |        702 |
+| lib\services (Files)                                                                             |          1 |         53 |          0 |          6 |         59 |
+| lib\services\auth_api                                                                            |          1 |         58 |          0 |          9 |         67 |
+| lib\services\cashout_api                                                                         |          1 |         46 |          0 |          8 |         54 |
+| lib\services\earn_api                                                                            |          3 |         67 |          0 |         17 |         84 |
+| lib\services\functional                                                                          |          4 |         90 |         56 |         22 |        168 |
+| lib\services\game_api                                                                            |          3 |        130 |          0 |         23 |        153 |
+| lib\services\leaderboard_api                                                                     |          1 |         23 |          0 |          4 |         27 |
+| lib\services\user_api                                                                            |          1 |         79 |          0 |         11 |         90 |
+| lib\src                                                                                          |          5 |        118 |          0 |         15 |        133 |
+| linux                                                                                            |          5 |        106 |         33 |         44 |        183 |
+| linux (Files)                                                                                    |          3 |         94 |         24 |         33 |        151 |
+| linux\flutter                                                                                    |          2 |         12 |          9 |         11 |         32 |
+| macos                                                                                            |          6 |        460 |          5 |         16 |        481 |
+| macos\Flutter                                                                                    |          1 |         22 |          3 |          4 |         29 |
+| macos\Runner                                                                                     |          4 |        431 |          0 |          8 |        439 |
+| macos\Runner (Files)                                                                             |          2 |         20 |          0 |          6 |         26 |
+| macos\RunnerTests                                                                                |          1 |          7 |          2 |          4 |         13 |
+| macos\Runner\Assets.xcassets                                                                     |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Assets.xcassets\AppIcon.appiconset                                                  |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Base.lproj                                                                          |          1 |        343 |          0 |          1 |        344 |
+| test                                                                                             |          1 |         14 |         10 |          6 |         30 |
+| web                                                                                              |          2 |         73 |         16 |          7 |         96 |
+| windows                                                                                          |         10 |        442 |         94 |        143 |        679 |
+| windows\flutter                                                                                  |          2 |         14 |          9 |         11 |         34 |
+| windows\runner                                                                                   |          8 |        428 |         85 |        132 |        645 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                         | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\komiwall-master\komiwall-master\README.md                                                     | Markdown   |         10 |          0 |          7 |         17 |
+| d:\komiwall-master\komiwall-master\analysis_options.yaml                                         | YAML       |          3 |         22 |          4 |         29 |
+| d:\komiwall-master\komiwall-master\android\app\build.gradle                                      | Gradle     |         53 |          7 |         12 |         72 |
+| d:\komiwall-master\komiwall-master\android\app\google-services.json                              | JSON       |         29 |          0 |          0 |         29 |
+| d:\komiwall-master\komiwall-master\android\app\src\debug\AndroidManifest.xml                     | XML        |          3 |          4 |          1 |          8 |
+| d:\komiwall-master\komiwall-master\android\app\src\main\AndroidManifest.xml                      | XML        |         43 |         11 |         10 |         64 |
+| d:\komiwall-master\komiwall-master\android\app\src\main\res\drawable-v21\launch_background.xml   | XML        |          4 |          7 |          2 |         13 |
+| d:\komiwall-master\komiwall-master\android\app\src\main\res\drawable\launch_background.xml       | XML        |          4 |          7 |          2 |         13 |
+| d:\komiwall-master\komiwall-master\android\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml    | XML        |          5 |          0 |          0 |          5 |
+| d:\komiwall-master\komiwall-master\android\app\src\main\res\values-night\styles.xml              | XML        |          9 |          9 |          1 |         19 |
+| d:\komiwall-master\komiwall-master\android\app\src\main\res\values\styles.xml                    | XML        |          9 |          9 |          1 |         19 |
+| d:\komiwall-master\komiwall-master\android\app\src\profile\AndroidManifest.xml                   | XML        |          3 |          4 |          1 |          8 |
+| d:\komiwall-master\komiwall-master\android\build.gradle                                          | Gradle     |         16 |          0 |          3 |         19 |
+| d:\komiwall-master\komiwall-master\android\gradle.properties                                     | Properties |          3 |          0 |          1 |          4 |
+| d:\komiwall-master\komiwall-master\android\gradle\wrapper\gradle-wrapper.properties              | Properties |          5 |          0 |          1 |          6 |
+| d:\komiwall-master\komiwall-master\android\settings.gradle                                       | Gradle     |         23 |          2 |          5 |         30 |
+| d:\komiwall-master\komiwall-master\firebase.json                                                 | JSON       |          1 |          0 |          0 |          1 |
+| d:\komiwall-master\komiwall-master\ios\RunnerTests\RunnerTests.swift                             | Swift      |          7 |          2 |          4 |         13 |
+| d:\komiwall-master\komiwall-master\ios\Runner\AppDelegate.swift                                  | Swift      |         12 |          0 |          2 |         14 |
+| d:\komiwall-master\komiwall-master\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON       |        122 |          0 |          1 |        123 |
+| d:\komiwall-master\komiwall-master\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json | JSON       |         23 |          0 |          1 |         24 |
+| d:\komiwall-master\komiwall-master\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md     | Markdown   |          3 |          0 |          2 |          5 |
+| d:\komiwall-master\komiwall-master\ios\Runner\Base.lproj\LaunchScreen.storyboard                 | XML        |         36 |          1 |          1 |         38 |
+| d:\komiwall-master\komiwall-master\ios\Runner\Base.lproj\Main.storyboard                         | XML        |         25 |          1 |          1 |         27 |
+| d:\komiwall-master\komiwall-master\ios\Runner\Runner-Bridging-Header.h                           | C++        |          1 |          0 |          1 |          2 |
+| d:\komiwall-master\komiwall-master\lib\blocs\auth_bloc\auth_bloc\auth_cubit.dart                 | Dart       |         55 |          0 |          7 |         62 |
+| d:\komiwall-master\komiwall-master\lib\blocs\auth_bloc\auth_bloc\auth_states.dart                | Dart       |         10 |          0 |          4 |         14 |
+| d:\komiwall-master\komiwall-master\lib\blocs\cash_bloc\cash_cubit.dart                           | Dart       |         43 |          0 |          4 |         47 |
+| d:\komiwall-master\komiwall-master\lib\blocs\cash_bloc\cash_states.dart                          | Dart       |         18 |          0 |          6 |         24 |
+| d:\komiwall-master\komiwall-master\lib\blocs\earn_bloc\earn_cubit.dart                           | Dart       |         33 |          1 |          7 |         41 |
+| d:\komiwall-master\komiwall-master\lib\blocs\earn_bloc\earn_states.dart                          | Dart       |         23 |          0 |          8 |         31 |
+| d:\komiwall-master\komiwall-master\lib\blocs\game_bloc\game_cubit.dart                           | Dart       |         62 |          0 |          8 |         70 |
+| d:\komiwall-master\komiwall-master\lib\blocs\game_bloc\game_states.dart                          | Dart       |         15 |          0 |          6 |         21 |
+| d:\komiwall-master\komiwall-master\lib\blocs\leaderboard_bloc\leaderboard_cubit.dart             | Dart       |         14 |          0 |          3 |         17 |
+| d:\komiwall-master\komiwall-master\lib\blocs\leaderboard_bloc\leaderboard_states.dart            | Dart       |          7 |          0 |          4 |         11 |
+| d:\komiwall-master\komiwall-master\lib\blocs\user_bloc\user_cubit.dart                           | Dart       |         86 |          0 |          9 |         95 |
+| d:\komiwall-master\komiwall-master\lib\blocs\user_bloc\user_states.dart                          | Dart       |         24 |          0 |          8 |         32 |
+| d:\komiwall-master\komiwall-master\lib\components\cashout_comp\cashout_card.dart                 | Dart       |        104 |          0 |          4 |        108 |
+| d:\komiwall-master\komiwall-master\lib\components\cashout_comp\cashout_dialog.dart               | Dart       |         99 |          1 |          3 |        103 |
+| d:\komiwall-master\komiwall-master\lib\components\earn_comp\network_dialog.dart                  | Dart       |         88 |          0 |          5 |         93 |
+| d:\komiwall-master\komiwall-master\lib\components\game_comp\game_button.dart                     | Dart       |         72 |          0 |          6 |         78 |
+| d:\komiwall-master\komiwall-master\lib\components\game_comp\game_card.dart                       | Dart       |         35 |          0 |          3 |         38 |
+| d:\komiwall-master\komiwall-master\lib\components\general\auth_button.dart                       | Dart       |         77 |          0 |          6 |         83 |
+| d:\komiwall-master\komiwall-master\lib\components\general\background.dart                        | Dart       |         24 |          0 |          4 |         28 |
+| d:\komiwall-master\komiwall-master\lib\components\general\login_field.dart                       | Dart       |         42 |          0 |          4 |         46 |
+| d:\komiwall-master\komiwall-master\lib\components\general\my_appbar.dart                         | Dart       |         84 |          0 |          4 |         88 |
+| d:\komiwall-master\komiwall-master\lib\components\general\my_navbar.dart                         | Dart       |         46 |          0 |          4 |         50 |
+| d:\komiwall-master\komiwall-master\lib\components\general\shimmer.dart                           | Dart       |         17 |          0 |          4 |         21 |
+| d:\komiwall-master\komiwall-master\lib\components\home_comp\featured_tile.dart                   | Dart       |         50 |          0 |          2 |         52 |
+| d:\komiwall-master\komiwall-master\lib\components\home_comp\leads_tile.dart                      | Dart       |         70 |          0 |          2 |         72 |
+| d:\komiwall-master\komiwall-master\lib\components\home_comp\offerwall_tile.dart                  | Dart       |         84 |          0 |          2 |         86 |
+| d:\komiwall-master\komiwall-master\lib\components\navbar_dep.dart                                | Dart       |        466 |         21 |         44 |        531 |
+| d:\komiwall-master\komiwall-master\lib\components\profile_comp\app_info_box.dart                 | Dart       |        200 |          5 |          8 |        213 |
+| d:\komiwall-master\komiwall-master\lib\components\profile_comp\user_action_box.dart              | Dart       |        247 |          9 |          3 |        259 |
+| d:\komiwall-master\komiwall-master\lib\components\profile_comp\user_details_box.dart             | Dart       |         91 |          6 |          5 |        102 |
+| d:\komiwall-master\komiwall-master\lib\firebase_options.dart                                     | Dart       |         48 |         12 |          3 |         63 |
+| d:\komiwall-master\komiwall-master\lib\main.dart                                                 | Dart       |         23 |          0 |          4 |         27 |
+| d:\komiwall-master\komiwall-master\lib\models\cashout_model.dart                                 | Dart       |         35 |          0 |          6 |         41 |
+| d:\komiwall-master\komiwall-master\lib\models\leaderboard_model.dart                             | Dart       |         39 |          5 |          9 |         53 |
+| d:\komiwall-master\komiwall-master\lib\models\leads_model.dart                                   | Dart       |         35 |          5 |          6 |         46 |
+| d:\komiwall-master\komiwall-master\lib\models\networks_model.dart                                | Dart       |         38 |          5 |          6 |         49 |
+| d:\komiwall-master\komiwall-master\lib\models\tapwar_ranking_model.dart                          | Dart       |         32 |          5 |          6 |         43 |
+| d:\komiwall-master\komiwall-master\lib\models\user_data_model.dart                               | Dart       |        143 |          0 |         12 |        155 |
+| d:\komiwall-master\komiwall-master\lib\models\youmi_model.dart                                   | Dart       |        173 |          0 |         17 |        190 |
+| d:\komiwall-master\komiwall-master\lib\screens\auth\login_page.dart                              | Dart       |        137 |          0 |          8 |        145 |
+| d:\komiwall-master\komiwall-master\lib\screens\auth\signup_page.dart                             | Dart       |        242 |          0 |          7 |        249 |
+| d:\komiwall-master\komiwall-master\lib\screens\auth\welcome_page.dart                            | Dart       |         57 |          0 |          4 |         61 |
+| d:\komiwall-master\komiwall-master\lib\screens\index.dart                                        | Dart       |         68 |          0 |         10 |         78 |
+| d:\komiwall-master\komiwall-master\lib\screens\main\cashout_page.dart                            | Dart       |         71 |          0 |          4 |         75 |
+| d:\komiwall-master\komiwall-master\lib\screens\main\game_page.dart                               | Dart       |         35 |          0 |          3 |         38 |
+| d:\komiwall-master\komiwall-master\lib\screens\main\games\scratch_game.dart                      | Dart       |        337 |          1 |         12 |        350 |
+| d:\komiwall-master\komiwall-master\lib\screens\main\games\tap_game.dart                          | Dart       |        233 |          0 |          7 |        240 |
+| d:\komiwall-master\komiwall-master\lib\screens\main\games\wheel_game.dart                        | Dart       |        202 |          0 |         17 |        219 |
+| d:\komiwall-master\komiwall-master\lib\screens\main\home_page.dart                               | Dart       |        189 |          0 |         10 |        199 |
+| d:\komiwall-master\komiwall-master\lib\screens\main\ranking_page.dart                            | Dart       |        211 |          0 |          5 |        216 |
+| d:\komiwall-master\komiwall-master\lib\screens\profile_page.dart                                 | Dart       |         97 |          3 |          3 |        103 |
+| d:\komiwall-master\komiwall-master\lib\screens\wallet_page.dart                                  | Dart       |        300 |          7 |          7 |        314 |
+| d:\komiwall-master\komiwall-master\lib\services\auth_api\auth_api.dart                           | Dart       |         58 |          0 |          9 |         67 |
+| d:\komiwall-master\komiwall-master\lib\services\cashout_api\cashout_api.dart                     | Dart       |         46 |          0 |          8 |         54 |
+| d:\komiwall-master\komiwall-master\lib\services\earn_api\leads_api.dart                          | Dart       |         23 |          0 |          5 |         28 |
+| d:\komiwall-master\komiwall-master\lib\services\earn_api\networks_api.dart                       | Dart       |         23 |          0 |          6 |         29 |
+| d:\komiwall-master\komiwall-master\lib\services\earn_api\offers_api.dart                         | Dart       |         21 |          0 |          6 |         27 |
+| d:\komiwall-master\komiwall-master\lib\services\firebase_api.dart                                | Dart       |         53 |          0 |          6 |         59 |
+| d:\komiwall-master\komiwall-master\lib\services\functional\auth_handler.dart                     | Dart       |         31 |         56 |          9 |         96 |
+| d:\komiwall-master\komiwall-master\lib\services\functional\image_cacher.dart                     | Dart       |          0 |          0 |          2 |          2 |
+| d:\komiwall-master\komiwall-master\lib\services\functional\overrides.dart                        | Dart       |          9 |          0 |          2 |         11 |
+| d:\komiwall-master\komiwall-master\lib\services\functional\web_view_handler.dart                 | Dart       |         50 |          0 |          9 |         59 |
+| d:\komiwall-master\komiwall-master\lib\services\game_api\scratch_api.dart                        | Dart       |         43 |          0 |          8 |         51 |
+| d:\komiwall-master\komiwall-master\lib\services\game_api\tap_war_api.dart                        | Dart       |         44 |          0 |          7 |         51 |
+| d:\komiwall-master\komiwall-master\lib\services\game_api\wheel_api.dart                          | Dart       |         43 |          0 |          8 |         51 |
+| d:\komiwall-master\komiwall-master\lib\services\leaderboard_api\leaderboard_api.dart             | Dart       |         23 |          0 |          4 |         27 |
+| d:\komiwall-master\komiwall-master\lib\services\user_api\user_api.dart                           | Dart       |         79 |          0 |         11 |         90 |
+| d:\komiwall-master\komiwall-master\lib\src\app_color.dart                                        | Dart       |         11 |          0 |          2 |         13 |
+| d:\komiwall-master\komiwall-master\lib\src\app_navigation.dart                                   | Dart       |         14 |          0 |          4 |         18 |
+| d:\komiwall-master\komiwall-master\lib\src\app_root.dart                                         | Dart       |         77 |          0 |          4 |         81 |
+| d:\komiwall-master\komiwall-master\lib\src\app_shared.dart                                       | Dart       |          7 |          0 |          2 |          9 |
+| d:\komiwall-master\komiwall-master\lib\src\app_size.dart                                         | Dart       |          9 |          0 |          3 |         12 |
+| d:\komiwall-master\komiwall-master\linux\flutter\generated_plugin_registrant.cc                  | C++        |          7 |          4 |          5 |         16 |
+| d:\komiwall-master\komiwall-master\linux\flutter\generated_plugin_registrant.h                   | C++        |          5 |          5 |          6 |         16 |
+| d:\komiwall-master\komiwall-master\linux\main.cc                                                 | C++        |          5 |          0 |          2 |          7 |
+| d:\komiwall-master\komiwall-master\linux\my_application.cc                                       | C++        |         82 |         17 |         26 |        125 |
+| d:\komiwall-master\komiwall-master\linux\my_application.h                                        | C++        |          7 |          7 |          5 |         19 |
+| d:\komiwall-master\komiwall-master\macos\Flutter\GeneratedPluginRegistrant.swift                 | Swift      |         22 |          3 |          4 |         29 |
+| d:\komiwall-master\komiwall-master\macos\RunnerTests\RunnerTests.swift                           | Swift      |          7 |          2 |          4 |         13 |
+| d:\komiwall-master\komiwall-master\macos\Runner\AppDelegate.swift                                | Swift      |          8 |          0 |          2 |         10 |
+| d:\komiwall-master\komiwall-master\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json | JSON       |         68 |          0 |          1 |         69 |
+| d:\komiwall-master\komiwall-master\macos\Runner\Base.lproj\MainMenu.xib                          | XML        |        343 |          0 |          1 |        344 |
+| d:\komiwall-master\komiwall-master\macos\Runner\MainFlutterWindow.swift                          | Swift      |         12 |          0 |          4 |         16 |
+| d:\komiwall-master\komiwall-master\pubspec.yaml                                                  | YAML       |         46 |         51 |         15 |        112 |
+| d:\komiwall-master\komiwall-master\test\widget_test.dart                                         | Dart       |         14 |         10 |          6 |         30 |
+| d:\komiwall-master\komiwall-master\web\index.html                                                | HTML       |         38 |         16 |          6 |         60 |
+| d:\komiwall-master\komiwall-master\web\manifest.json                                             | JSON       |         35 |          0 |          1 |         36 |
+| d:\komiwall-master\komiwall-master\windows\flutter\generated_plugin_registrant.cc                | C++        |          9 |          4 |          5 |         18 |
+| d:\komiwall-master\komiwall-master\windows\flutter\generated_plugin_registrant.h                 | C++        |          5 |          5 |          6 |         16 |
+| d:\komiwall-master\komiwall-master\windows\runner\flutter_window.cpp                             | C++        |         49 |          7 |         16 |         72 |
+| d:\komiwall-master\komiwall-master\windows\runner\flutter_window.h                               | C++        |         20 |          5 |          9 |         34 |
+| d:\komiwall-master\komiwall-master\windows\runner\main.cpp                                       | C++        |         30 |          4 |         10 |         44 |
+| d:\komiwall-master\komiwall-master\windows\runner\resource.h                                     | C++        |          9 |          6 |          2 |         17 |
+| d:\komiwall-master\komiwall-master\windows\runner\utils.cpp                                      | C++        |         54 |          2 |         10 |         66 |
+| d:\komiwall-master\komiwall-master\windows\runner\utils.h                                        | C++        |          8 |          6 |          6 |         20 |
+| d:\komiwall-master\komiwall-master\windows\runner\win32_window.cpp                               | C++        |        210 |         24 |         55 |        289 |
+| d:\komiwall-master\komiwall-master\windows\runner\win32_window.h                                 | C++        |         48 |         31 |         24 |        103 |
+| Total                                                                                            |            |      7,288 |        437 |        763 |      8,488 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
